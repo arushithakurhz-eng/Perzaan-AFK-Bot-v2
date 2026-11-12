@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "leavsmsp.mcserv.xyz",
-    "port": 25247,
+    "ip": "148.113.0.7",
+    "port": 23090,
     "version": "1.21.1"
   },
   "position": {
