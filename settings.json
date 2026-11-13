@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "YIN_NNNNN"
+      "password": "YIN_NNNNNN"
     },
     "anti-afk": {
       "enabled": true,
